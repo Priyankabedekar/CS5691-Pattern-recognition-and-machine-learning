@@ -1,0 +1,7 @@
+Name : Priyanka Bedekar
+RollNo : CS20M050
+Folder Details:
+Plots
+Codes
+Dataset
+Report.pdf
